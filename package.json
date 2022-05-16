@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TerryHughes/electron-tutorial/issues"
   },
-  "homepage": "https://github.com/TerryHughes/electron-tutorial#readme"
+  "homepage": "https://github.com/TerryHughes/electron-tutorial#readme",
+  "devDependencies": {
+    "electron": "^18.2.3"
+  }
 }
